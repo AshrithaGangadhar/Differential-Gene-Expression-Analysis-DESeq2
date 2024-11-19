@@ -1,6 +1,6 @@
 # Differential Gene Expression Analysis Using DESeq2
 
-To identify differentially expressed genes between two conditions (e.g., tumor vs. non-tumor) in RNA-seq datasets.
+To identify differentially expressed genes across different experimental conditions (e.g., tumor vs. non-tumor) in RNA-seq datasets of uterine leiomyosarcoma using a statistical software package (DESeq2).
 
 
 ## **Contents**
